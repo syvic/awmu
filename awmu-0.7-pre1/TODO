@@ -1,0 +1,33 @@
+/* TODO
+ *
+ * LISTO (0.6)
+ * - Cuando se selecciona el canal 11, la barra se alarga una posición en azúl
+ * - generación de logs con tiempo unix rrd
+ * - Soporte logging formato RRD
+ *
+ * VERSIÓN 0.7
+ * - Manual y ejemplo de creación de base de datos RRD. ¿Posible script?
+ * - Control de errores del APM
+ * - Quitar o ensombrecer los tres elementos de WEP si está desactivado
+ * - Añadir autodetección de tarjetas wireless
+ * - actualización automática sobre ficheros rrd
+ *  
+ * VERSIÓN 0.8
+ * - Posibilidad de fichero de configuración global
+ * - Hacer que el refresco de los datos no gráficos sea independiente de las barras.
+ * - Implementar nanosleep para mejorar el refresco de la pantalla
+ * - Adaptar a 802.11a y 802.11g
+ * - Control de errores
+ * - Añadir código del 'w' e ifconfig
+ *    -uptime
+ *    -ifconfig:
+ *    		a) ip
+ *    		b) mask
+ *    		c) status
+ *    		d) mac
+ * 
+ * VERSIÓN 1.0
+ * - Reimplementación con nueva estructura de recogida de datos.
+ * - Ponerlo bonico ¿ncurses?
+ * - ¿Port real de wavemon?
+*/

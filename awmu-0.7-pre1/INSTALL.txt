@@ -1,0 +1,11 @@
+INSTALL.txt
+-----------
+
+Just type 'make && make install'
+The program will be installed in /usr/local/bin/awmu
+
+Syntax:
+awmu <device> [-r fich.rrdf]
+(If no device specified, will try wi0)
+
+EOF
